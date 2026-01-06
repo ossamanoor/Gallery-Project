@@ -1,5 +1,4 @@
 import Navbar from './components/Navbar'
-import ThemeContext from './components/ThemeContext'
 
 const App = () => {
 
